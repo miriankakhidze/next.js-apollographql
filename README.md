@@ -1,6 +1,7 @@
 # next.js-apollographql
 
+use next.js with apollographql, WebSocketLink, createUploadLink.
 
 # How to use
 
-Execute yarn install with npm or Yarn to bootstrap the example:
+Execute yarn install or npm install to bootstrap the example:
