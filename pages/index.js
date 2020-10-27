@@ -21,7 +21,7 @@ export default function Index() {
       <p>Hello Next.js with apollographql</p>
       <ul>
         {data &&
-          data.nodes.map(item => (
+          data.users.map(item => (
             <li key={item.id}>
               {item.name}-{item.lastname}
             </li>
